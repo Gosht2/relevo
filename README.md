@@ -21,7 +21,7 @@ Desarrollar un sistema que facilite la entrega y recepción de pendientes entre 
 
 - GitHub: repositorio e historial de cambios.
 - GitHub Issues: registro y seguimiento de tareas del proyecto.
-- GitHub Projects: tablero de organización del trabajo, pendiente de configurar.
+- GitHub Projects: [Relevo — Plan de trabajo](https://github.com/users/Gosht2/projects/2), tablero público de seguimiento.
 - Markdown: documentación del repositorio.
 
 El lenguaje, el entorno de desarrollo y la base de datos se definirán durante la planificación técnica.
@@ -38,11 +38,11 @@ Proyecto en fase de planificación y organización del repositorio. Todavía no 
 
 ## Organización del trabajo
 
-El trabajo se dividirá en tareas pequeñas registradas como issues. Se organizarán en un tablero de GitHub Projects con los estados Por hacer, En proceso y Terminado. Cada cambio se guardará mediante commits con mensajes que describan su propósito.
+El trabajo está dividido en tareas pequeñas registradas como issues. Se organizan en el tablero de GitHub Projects con los estados Todo (Por hacer), In Progress (En proceso) y Done (Terminado). Cada cambio se guardará mediante commits con mensajes que describan su propósito.
 
 Primero se definirán los requisitos y el diseño; después se implementarán las funciones y se comprobará su funcionamiento. Las capturas y el documento de entrega se conservarán en este repositorio.
 
-## Estructura prevista
+## Estructura del repositorio
 
 - `documentacion/`: alcance, requisitos y decisiones del proyecto.
 - `src/`: código fuente de la aplicación.

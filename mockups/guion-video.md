@@ -1,14 +1,14 @@
 # Guion para el video de Relevo
 
-**Estado: borrador para practicar.** Grabar después de completar los diseños y verificar los enlaces. No leer las indicaciones entre corchetes. No afirmar que existe implementación, aprobación o fusión sin comprobarlo. Duración orientativa: 4–5 minutos.
+**Guion para presentar el prototipo de Figma.** No leer las indicaciones entre corchetes. No afirmar que existe implementación, aprobación o fusión sin comprobarlo. Duración orientativa: 4–5 minutos.
 
 ## 1. Presentación — repositorio en Code
 
-Buenas tardes. Mi nombre es Josias De La Cruz Baez y este es Relevo, mi proyecto para dar continuidad a las tareas entre turnos de trabajo.
+Buenas tardes. Mi nombre es [tu nombre] y este es Relevo, mi proyecto para dar continuidad a las tareas entre turnos de trabajo.
 
 Elegí esta idea porque, por mi experiencia trabajando en ventas y almacén, entiendo lo importante que es dejar claro qué se hizo y qué queda pendiente. Si otra persona debe continuar el trabajo, necesita saber por dónde va y cuál es el próximo paso. Eso es lo que quiero facilitar con Relevo.
 
-En la actividad anterior definí 35 historias de usuario. En esta etapa estoy trabajando el diseño de las pantallas principales a partir de esas historias.
+En la actividad anterior definí 35 historias de usuario. En esta etapa preparé el diseño de las pantallas principales a partir de esas historias.
 
 ## 2. Organización — issue #41 y rama mockups
 
@@ -20,7 +20,7 @@ Aquí registré la tarea de diseño y las condiciones que debe cumplir. También
 
 En esta carpeta organicé el alcance y la relación de cada pantalla con las historias. Elegí el recorrido principal: entrar, consultar un pendiente y comunicarlo al siguiente turno.
 
-## 3. Recorrido — Figma, una vez terminado el prototipo
+## 3. Recorrido del prototipo en Figma
 
 [Mostrar Acceso.]
 
